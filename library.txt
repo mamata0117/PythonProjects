@@ -1,0 +1,9 @@
+libraries like
+
+PANDAS
+
+FOR Decision tress and neural networks
+Loading data set from csv file to jupiter
+We are using kaggle
+while training for ML we use  we split our data set into input dataset and output dataset
+first two colums as i/p set and last as o/p set
